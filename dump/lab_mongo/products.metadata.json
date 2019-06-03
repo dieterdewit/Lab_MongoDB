@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lab_mongo.products"},{"v":2,"key":{"inventario.existencias":1.0},"name":"inventario.existencias_1","ns":"lab_mongo.products"}],"uuid":"bcc103b959b94f9681b114fa85698633"}
